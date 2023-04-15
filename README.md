@@ -4,6 +4,9 @@ This github repository will walk you through setting up your Git and GitHub acco
 
 ---
 
+
+
+
 ## Checklist
 
 - [x] View this README  
